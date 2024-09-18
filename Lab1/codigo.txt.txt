@@ -1,2 +1,7 @@
 Prueba de git
-xd
+nueva linea de código 
+var num1 = 10;
+var num2 = 50;
+prueba 2 
+git para pruebas 
+XD
