@@ -5,3 +5,4 @@ var num2 = 50;
 prueba 2 
 git para pruebas 
 XD
+creado en la nueva rama
